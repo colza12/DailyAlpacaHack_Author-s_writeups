@@ -6,7 +6,7 @@ WindowsでのStack Buffer Overflowを体験する問題を作成しました。
 ## Challenge
 かっぱが窓の外を覗いています！
 
-`nc chal1.fwectf.com 8010`
+`nc 34.170.146.252 57267`
 
 Attachment: kappa-overflow.tar.gz
 
