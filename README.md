@@ -4,3 +4,4 @@ Daily AlpacaHackで出題した問題のwriteupを掲載しています。
 * [kappa overflow:pwn](kappa-overflow) 2026/03/12
 * [canary leak:pwn](canary-leak) 2026/03/20
 * [flag obfuscation:rev](flag-obfuscation) 2026/04/15
+* [voyage:misc](voyage) 2026/06/25
