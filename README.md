@@ -5,3 +5,4 @@ Daily AlpacaHackで出題した問題のwriteupを掲載しています。
 * [canary leak:pwn](canary-leak) 2026/03/20
 * [flag obfuscation:rev](flag-obfuscation) 2026/04/15
 * [voyage:misc](voyage) 2026/06/25
+* [kappa maki:pwn](kappa-maki) 2026/07/12-2026/07/16 B-SIDE
